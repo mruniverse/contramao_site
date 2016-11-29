@@ -10,8 +10,8 @@ div.content{
 }
 div.content2{
     background-color: #fff06d;
-    margin-top: -90px;
-    padding-bottom: 50px;
+    margin-top: -4%;
+    padding-bottom: 3.5%;
     border-bottom: 10px solid black;
 }
 
@@ -26,7 +26,7 @@ img.logo{
 }
 
 body{
-    background-color: #ff5151;
+    background-color: #381d03;
 }
 
 a{
@@ -40,9 +40,14 @@ div.carousel-inner > div.item > img,
 }
 
 div#myCarousel{
-    margin-top: 100px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-top: 7%;
+    margin-right: 10%;
+    margin-left: 10%;
     border: 10px solid black;
     border-radius: 10px;
+}
+
+img.background{
+    margin-bottom: -100%;
+    margin-left: -10.5%;
 }
